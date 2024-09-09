@@ -17,7 +17,7 @@
 
 🎓 Cursando Sistemas de Informação na USJT. 
 
-🎯 Objetivo: Me tornar um desenvolvedora Full Stack.
+🎯 Objetivo: Me tornar um desenvolvedor Full Stack.
 
 🎨 No meu tempo livre, adoro aprender novos idiomas.
 
