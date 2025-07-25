@@ -11,71 +11,65 @@
 ### 🔍 Descubra Mais Sobre Mim:  
 <br> 
 
-
-<img align="right" alt="joao-dev-icon" src="https://github.com/user-attachments/assets/9bbbff79-ec4a-4b74-9e27-ce746c3f43ac" width="160px" height="160px"/>
-
-
-🎓 Cursando Sistemas de Informação na USJT. 
-
-🎯 Objetivo: Me tornar um desenvolvedor Full Stack.
-
-🎨 No meu tempo livre, adoro aprender novos idiomas.
-
-💬 Sou muito curioso, e tenho o costume de sempre perguntar mais!
-
-<br>
-
-## 
-
-<div style="display: inline_block" >
-  <br>
-  
-  ###  Principais Habilidades: <br>
-  <img align="center" alt="joao-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="joao-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  
-<br><br>
-
-###  Ferramentas:<br>
-
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-<br><br>
-
- ###  Estudando:<br>
- 
-   <img align="center" alt="joao-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="joao-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-
-<br>
-
+<div>
+    <img align="right" src="https://github.com/user-attachments/assets/9bbbff79-ec4a-4b74-9e27-ce746c3f43ac" width="160px" height="160px" alt="joao-dev-icon" />
+    <p>🎓 Cursando Sistemas de Informação na USJT.  </p>
+    <p>🎯 Objetivo: Me tornar um desenvolvedor Full Stack. </p>
+    <p>🎨 No meu tempo livre, adoro aprender novos idiomas. </p>
+    <p>💬 Sou muito curioso, e tenho o costume de sempre perguntar mais! </p>
 </div>
- <br>
+
+
+<br>
 
 ## 
-<br> 
+
 <div align="center"> 
   
-  ### 📱 Vamos nos Conectar?
-  <br> 
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-b37587265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "joao.vgomes37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/http.vgomez/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  </div>
+### 💻 Principais Habilidades
+<br> 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+<br>
+
+## 
+
+<div align="center"> 
+  
+### 📱 Vamos nos Conectar?
+<br> 
+<div align="center">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-b37587265/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+<a href="https://www.instagram.com/http.vgomez/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</a>
+<a href="joao.vgomes37@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+</div>
+
 <br>
 
 ##
 
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovgomess&show_icons=true&count_private=true&hide_border=true&title_color=29ce52&icon_color=29ce52&text_color=aaaaaa&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovgomess&layout=compact&hide_border=true&title_color=29ce52&text_aaaaaa&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovgomess&show_icons=true&count_private=true&hide_border=true&title_color=29ce52&icon_color=29ce52&text_color=aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovgomess&layout=compact&hide_border=true&title_color=29ce52&text_aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovgomess&radius=16&theme=github-compact&area=true&order=5&hide_border=true&hide_title=true&text_aaaaaa&bg_color=0d1117" height="300" alt="activity-graph graph" alt="Joao Vitor github stats" />
 </div>
 
 
