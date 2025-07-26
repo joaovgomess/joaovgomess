@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29ce52&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29ce52&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+J.+Vitor+Gomes!;Quero+me+tornar+um+desenvolvedor+Full+Stack!+;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29ce52&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Vitor!;Quero+me+tornar+um+desenvolvedor+Full+Stack!+;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
 
 <p  align="center">Sou um desenvolvedor iniciante apaixonado por programação, com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
