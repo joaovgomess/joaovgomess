@@ -69,9 +69,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovgomess&show_icons=true&count_private=true&hide_border=true&title_color=29ce52&icon_color=29ce52&text_color=aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovgomess&layout=compact&hide_border=true&title_color=29ce52&text_aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovgomess&radius=16&theme=github-compact&area=true&order=5&hide_border=true&hide_title=true&text_aaaaaa&bg_color=0d1117" height="300" alt="activity-graph graph" alt="Joao Vitor github stats" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=joaovgomess&show_icons=true&count_private=true&hide_border=true&title_color=29ce52&icon_color=29ce52&text_color=aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaovgomess&layout=compact&hide_border=true&title_color=29ce52&text_color=aaaaaa&bg_color=0d1117" alt="Joao Vitor github stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovgomess&radius=16&theme=github-compact&area=true&order=5&hide_border=true&hide_title=true&text_color=aaaaaa&bg_color=0d1117" height="300" alt="activity-graph graph" />
 </div>
 
 
